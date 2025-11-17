@@ -194,6 +194,7 @@ fielding/OffspinTest/tight3.xml,272036dc24592a36a19ebfc04496b7cd.xml
 fielding/OffspinTest/tight4.xml,156c3fa629b18cc38a105dcf23122641.xml
 fielding/SlowOdi/custom.xml,bd2c1026a9454cde6799fa5b40e54e66.xml
 fielding/SlowOdi/defend1.xml,a21e8e43d0f13204f7a6e7199826d06e.xml
+fielding/slowodi/defend2.xml,d2dfdfb8051fb0b518c85cda9ca3ddd1.xml
 fielding/SlowOdi/defend10.xml,92380b65b4452e2bb6e51d30e6a9fbd2.xml
 fielding/SlowOdi/defend3.xml,cba43c11c7c2454f3548e81496a1cf63.xml
 fielding/SlowOdi/defend4.xml,eb067f3dec7cf5f6115c4c6081b26d34.xml
@@ -2773,6 +2774,7 @@ xml/saf/odi/very_easy/shot15d.xml,4934c283bd5f7f00f183265cd56adb68.xml
 xml/saf/odi/very_easy/shot16a.xml,057542c388634e591d782fb1364981b8.xml
 xml/saf/odi/very_easy/shot17.xml,f7da75eaef92695f2db0953fb0dd20cf.xml
 xml/saf/odi/very_easy/shot17a.xml,e882d2dec54f4f50d75ee55cd8cdd2ff.xml
+xml/saf/odi/very_easy/shot17b.xml,d92af434fd6c4ffd6ca61107e6d79193.xml
 xml/saf/odi/very_easy/shot18.xml,35c56988c0db6d27470b02545b98fbe2.xml
 xml/saf/odi/very_easy/shot18a.xml,26c4d21ed4ff73d90b3742cfc11342c3.xml
 xml/saf/odi/very_easy/shot19.xml,7078afd09b324eab8d98fe1eb509ad33.xml
@@ -3314,4 +3316,3 @@ xml/sound/mix.xml,ba261051eb7f306ed20c05401184b975.xml
 xml/sound/sounds.bin,577964d64045a3fb8796c025aa28d773.bin
 xml/sound/sounds.xml,577964d64045a3fb8796c025aa28d773.xml
 xml/sound/traxx.xml,a31ccba307ab5bb8c53e91ebeba0bb90.xml
-
