@@ -43,7 +43,7 @@ fielding/FastTest/aggressive3.xml,7aa3cb532ddcb681a3bc3f1249d4eb44.xml
 fielding/FastTest/aggressive4.xml,d14d7f4e7c2e6a17e7d1b4453e1b495f.xml
 fielding/FastTest/aggressive5.xml,33352109a43c0bae71726f423af50763.xml
 fielding/FastTest/aggressive6.xml,bdf2a4d16885e4b8980b4c40b4d28d0c.xml
-fielding/FastTest/attack1.xml,cfa57811cb56ba4f64d54c7ad9bb7c11.xml
+fielding/FastTest/attack1.xml,59a58b7596126e12f52d8f2c5a0123e0.xml
 fielding/FastTest/attack2.xml,0897dffb916ba4a9e662a811bfcb393f.xml
 fielding/FastTest/attack3.xml,5f6b72a5b6c8b438c310ca7545916c4e.xml
 fielding/FastTest/attack4.xml,c880b422ab150e56c63f002940fe43f9.xml
@@ -194,8 +194,8 @@ fielding/OffspinTest/tight3.xml,272036dc24592a36a19ebfc04496b7cd.xml
 fielding/OffspinTest/tight4.xml,156c3fa629b18cc38a105dcf23122641.xml
 fielding/SlowOdi/custom.xml,bd2c1026a9454cde6799fa5b40e54e66.xml
 fielding/SlowOdi/defend1.xml,a21e8e43d0f13204f7a6e7199826d06e.xml
-fielding/slowodi/defend2.xml,d2dfdfb8051fb0b518c85cda9ca3ddd1.xml
 fielding/SlowOdi/defend10.xml,92380b65b4452e2bb6e51d30e6a9fbd2.xml
+fielding/slowodi/defend2.xml,d2dfdfb8051fb0b518c85cda9ca3ddd1.xml
 fielding/SlowOdi/defend3.xml,cba43c11c7c2454f3548e81496a1cf63.xml
 fielding/SlowOdi/defend4.xml,eb067f3dec7cf5f6115c4c6081b26d34.xml
 fielding/SlowOdi/defend5.xml,7202a1c0fe977579ba2f2e527d7327c6.xml
@@ -244,6 +244,10 @@ frontend/friz.big,e9ec16b2f3bae98e10aadb9b817bf2ba.big
 frontend/ftour.big,cb881e0488372de86d226bdbbb53d176.big
 frontend/gameface.big,da73a7807e518c0d6ced209d547a0068.big
 frontend/gamemodes.big,f61c356c0d1151becda23af708be7774.big
+frontend/ig_common.big,1e91373e79cb069bba2636890f32a365.big
+frontend/ig_overlay.big,7ac69a95d810236a72e073135195d310.big
+frontend/ig_replay.big,5edab4459b8d8ce20e5c12327f217fc7.big
+frontend/ig_start.big,e79ee2c2b355af464921e96112b634fc.big
 frontend/ing.big,c67c9df2c4d52437217283667899be8b.big
 frontend/kosrs.big,07dcf08f10821076c608a7c01222f014.big
 frontend/main.big,88619dca404f69e7f2cbcf1b00e97248.big
@@ -885,7 +889,7 @@ misc/models/stumpshadow.o,c394cea0cad0a854bfb8f82c4b80fd01.o
 misc/models/wear.o,3927aa6c700ec139b30fc3e8b05dfcab.o
 misc/textures/ballred.fsh,e3e3ed18c1e5de35fd754a596199c0ee.fsh
 misc/textures/ballwhite.fsh,9120b17c3984e5347f6b52eb39a9a120.fsh
-misc/textures/bt1.fsh,227ba6e46e0d19a72cc722a152372e86.fsh
+misc/textures/bt01.fsh,c84f08015acd2f30b942ea841e95cb57.fsh
 misc/textures/bt10.fsh,41accf57c5e20f813dc7bff1555def5c.fsh
 misc/textures/bt11.fsh,47a80b81319ffb66e408d63c001335af.fsh
 misc/textures/bt12.fsh,58586d3d42a96f098af03ebad597edde.fsh
@@ -896,7 +900,7 @@ misc/textures/bt16.fsh,12d22fff0656acc3c2c6ff574cc93b4e.fsh
 misc/textures/bt17.fsh,5ac7d0fa6d16d4f9633a448ddd195260.fsh
 misc/textures/bt18.fsh,1c6bf0f42a76d911564af5279db87ead.fsh
 misc/textures/bt19.fsh,c6dd33b92223ea7df5f41e102f3900f5.fsh
-misc/textures/bt2.fsh,bd209834bc38257f599617ac9bab9362.fsh
+misc/textures/bt02.fsh,1fd22ce12e513d5ce2e0f88361de0fc7.fsh
 misc/textures/bt20.fsh,ac80500b90e06f511547cc8023ef90ed.fsh
 misc/textures/bt21.fsh,585ed93e07b7a9d1345a5d31304f9216.fsh
 misc/textures/bt22.fsh,52c14db81400f1fcbc2d41ea7bf77376.fsh
@@ -907,7 +911,7 @@ misc/textures/bt26.fsh,8a1617c9e0597417a3d73c73ea40cdd0.fsh
 misc/textures/bt27.fsh,4f6089582064380ea21d1bcda80e38ce.fsh
 misc/textures/bt28.fsh,93a34f0af15cbb589a007897940d09da.fsh
 misc/textures/bt29.fsh,9d1050b7677c477d230e5874080e4e7f.fsh
-misc/textures/bt3.fsh,db004fcd11212eddb306288f29f229a9.fsh
+misc/textures/bt03.fsh,79f65c32410ac25d9e7bbbcebe7ffacf.fsh
 misc/textures/bt30.fsh,e772f9652613f97697f48fd37fa6ae83.fsh
 misc/textures/bt31.fsh,f4f442c6399b8f806be2abb970d13595.fsh
 misc/textures/bt32.fsh,cec928e2f36fff04081bd3b1132feaf6.fsh
@@ -918,7 +922,7 @@ misc/textures/bt36.fsh,e636de283e2a65964b3a621410a6af09.fsh
 misc/textures/bt37.fsh,ae5f4d8dcd4aaafef0943655ef3e7117.fsh
 misc/textures/bt38.fsh,226f9bb55e1d03dc9964edb242a80574.fsh
 misc/textures/bt39.fsh,c77264783caee0ec15db15cd3ed6b310.fsh
-misc/textures/bt4.fsh,705af5de6a4d657f1adc67143d1330c5.fsh
+misc/textures/bt04.fsh,1e097b9cb417d405767a807a3ad2e44a.fsh
 misc/textures/bt40.fsh,64f3060c8770ae71916250495c79b1d8.fsh
 misc/textures/bt41.fsh,78be91149f25f482c1a27fc8171a3152.fsh
 misc/textures/bt42.fsh,7acd474713e71f310ce4bfa8ace76cf4.fsh
@@ -927,11 +931,11 @@ misc/textures/bt44.fsh,0eac7928bbb7ea5e4977fd8058ec1f9a.fsh
 misc/textures/bt45.fsh,01fe622dfc8854c77a7615ff65a01e44.fsh
 misc/textures/bt46.fsh,d0904cefa5d4c827b88de437f9fa18a2.fsh
 misc/textures/bt47.fsh,5f1f784465d3fcd383f83ddd5b5ee1b8.fsh
-misc/textures/bt5.fsh,ec0e4467dc3b62d4cb170697f8dafce4.fsh
-misc/textures/bt6.fsh,e9439f428c4981578f290efb99580da0.fsh
-misc/textures/bt7.fsh,2097ba732d8be537156e114aa3b0e3c2.fsh
-misc/textures/bt8.fsh,2d752462ac2feb363173b4a6a80acb2f.fsh
-misc/textures/bt9.fsh,ca3918185008810df184a1cf7a5d5eac.fsh
+misc/textures/bt05.fsh,6f5d7d79c5987bf16f135ba7cb29a7ad.fsh
+misc/textures/bt06.fsh,9504c06ff41ba823934a9b4cc252d73f.fsh
+misc/textures/bt07.fsh,acf5f739154a1951563a272e2935a7e7.fsh
+misc/textures/bt08.fsh,0e354322a53fd49144a69672cd3fb707.fsh
+misc/textures/bt09.fsh,32e2767fa352a2776b5f71a14e86786d.fsh
 misc/textures/detail.fsh,e326f276b7a3ef89e8c6ce793b0372ab.fsh
 misc/textures/dropshadow.fsh,15a393f242dd2bd4aa4eb3e8197262e0.fsh
 misc/textures/fieldingdisc.fsh,fe72e71f1e423f3ee85458dc4cfc7179.fsh
@@ -1419,7 +1423,6 @@ replays/run_out.xml,8cfd225c6358456296fab74a0d334db1.xml
 replays/run_out_nb.xml,6225cc255d23761eb3673e3d074e5771.xml
 replays/third_ump.xml,1cb35501330a458643e00f46213b5293.xml
 saf/shots.big,430834dfd47be8b1eaa97fa22706133a.big
-stadiums/stadiums.list,7ff0c881471d574775f44be51b699480.list
 stadiums/adelaide.night.big,28b997929e28ff7ff3eccd65b4c315a4.big
 stadiums/adelaide.sunny.big,b912feb8a34a3ca1dc56b9b3ba7a7293.big
 stadiums/auckland.night.big,71f4247db264fed68bb2df3e4dd13bf7.big
@@ -1481,6 +1484,7 @@ stadiums/sharjah.night.big,2f6bb1aba6473c5ad0c43806d619379b.big
 stadiums/sharjah.sunny.big,6d710d7cdf6be3f21acec388fcf03512.big
 stadiums/southampton.overcast.big,3ce009357e424ab2ee6e28e8a4d9f998.big
 stadiums/southampton.sunny.big,c11db6023c7a5710a998c25cd6396525.big
+stadiums/stadiums.list,7ff0c881471d574775f44be51b699480.list
 stadiums/sydney.night.big,24d7add62df807c2a34eb019be1b49bd.big
 stadiums/sydney.overcast.big,63f024d6c350f75b1477349dd51c51db.big
 stadiums/sydney.sunny.big,45a4b5a2637900312123bfff2c0cee89.big
@@ -1493,8 +1497,8 @@ stadiums/worcester.overcast.big,95909d5d4e98177e5ccae8f618edfbad.big
 stadiums/worcester.sunny.big,35051b678f94e209be8e4b46215da98e.big
 strings/stable.english,1e970ae67ff9693610fa98ce27f928ab.english
 strings/stable.xml,1e970ae67ff9693610fa98ce27f928ab.xml
-strings/stablesku.xml,dc371d84ed78d4cf88a641a8d8abc38a.xml
 strings/stablesku.english,dc371d84ed78d4cf88a641a8d8abc38a.english
+strings/stablesku.xml,dc371d84ed78d4cf88a641a8d8abc38a.xml
 stumps/motion/knocked_out_left.bin,eda85906b56e06e11ee3ac3008ff559e.bin
 stumps/motion/knocked_out_middle.bin,af90d14a69844d72db0fbe559ee7d24c.bin
 stumps/motion/knocked_out_right.bin,cfa8148f91ada36204ba366937810d6e.bin
