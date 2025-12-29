@@ -1,4 +1,4 @@
-Absolute File Name,MD5 hashed filename
+Absolute Path,MD5 hashed filename
 bonesizes/bonesizes.bsl,0e7155bc602a495a2a481e5f5b1036b4.bsl
 cameras/cricketcam01.dat,28244227249ab3b8fd524d5f86c7eac0.dat
 configs/configs.big,2bb7ad25c9aa96dc7b6f670d84a4df83.big
@@ -868,13 +868,20 @@ gameface/gfx/hair/hair3_26_1.1.fsh,ff2fd32bfe61803200ae6f7f69febd7a.fsh
 gameface/gfx/hair/hair3_26_1.2.fsh,97e4f735225ff54cb4f7fa74c6199549.fsh
 gameface/gfx/hair/hair3_26_1.3.fsh,d3cdf8e09401226b356fcf87de2bc7c5.fsh
 memcard/locale_english.loc,3efa7d202434331747b5e1c66019da2e.loc
+misc/models/bail_01.o,4a7121a9eea54d566f4bda21077df2ba.o
+misc/models/bail_02.o,88888157dcddeea555c85ea1438e1947.o
 misc/models/bail_single.o,8b57de93f39d71f2d0aa73e533c4d753.o
 misc/models/bailshadow.o,7ce1db701450702141965a328eed136a.o
+misc/models/ballmarker.o,44b859645e27003c6c8d622903fbcd98.o
 misc/models/bowlmarker.o,a6da3cf7dc3df064d630a9a9c5fd6b28.o
 misc/models/cricketball.o,f775a90bf99e496bb4e456d679453593.o
+misc/models/cricketballshadow.o,90fa4c0d23afca611141d95303e31415.o
 misc/models/detail.o,d104a9cf0d22d700fcf7b93c78931b5e.o
 misc/models/detail2.o,0ed0776739b5ade4ba5c3e49b029fee4.o
+misc/models/disk.o,8b43c468388ceff228ec61fc8b96fa51.o
 misc/models/fielding_disc.o,2ea6bd99317b3b3256f809ff85a2789c.o
+misc/models/flag.o,65f1fa0687f2bd5d5ac9740af8720359.o
+misc/models/gamefacebat.o,efc757dbe66b016052d5ff6cb4ac828b.o
 misc/models/hour.o,7facb3dd0baed6fed45e1834133c0c92.o
 misc/models/lbw.o,6386443e375a67baf92fd0e62ea2d9bb.o
 misc/models/minute.o,5dd394bd0bca05a17b4ae896c755f768.o
@@ -884,9 +891,15 @@ misc/models/pitchcolour2.o,61c725e9b412ffc528898593c21d9c7f.o
 misc/models/pitchshadow.o,91a7b09b734a0abfc6973cdca6b71317.o
 misc/models/pitchshadow2.o,74f15e9ad3ec75878fbb4690ad83cdf8.o
 misc/models/playermarker.o,705425a575c4c47c3d82b4a90d460711.o
+misc/models/scoreboard.o,4facd78a0a3e64779415693436fb3fd1.o
+misc/models/scoreboardx.o,80c328a13e21fa32462cd0877d8e4337.o
+misc/models/scoreboard2x.o,20976039bb27f256b40cefb7b84aa217.o
 misc/models/sky.o,52bc0755888a351fee231ea5db8726fc.o
 misc/models/sky2.o,eecc593609522e6f85af833b35e3eebd.o
 misc/models/strip.o,36496f06d4fbdcd2dbb85c3e1755d388.o
+misc/models/stumps_01.o,1b74a8439ab109bd456929214b8e877c.o
+misc/models/stumps_02.o,c6f2b6db5d29b17ca7337017d5cdbfb4.o
+misc/models/stumps_03.o,650b306a7f37ec925ea6561b659957b5.o
 misc/models/stumps_single.o,a063b61b24f7ddfb5a028b0d0b47bfa8.o
 misc/models/stumpshadow.o,c394cea0cad0a854bfb8f82c4b80fd01.o
 misc/models/wear.o,3927aa6c700ec139b30fc3e8b05dfcab.o
@@ -1236,6 +1249,7 @@ players/body/models/cricketbowlermed.o,340e0167b39b8e62df5e5007501a99b0.o
 players/body/models/cricketkeeperhigh.o,932e7651b1585728a5b14e1272d3aecc.o
 players/body/models/cricketkeeperlow.o,fc49c502bae507cdaf628227c37f9b93.o
 players/body/models/cricketkeepermed.o,20510f39de37c88abaf7c7b4bb2da7af.o
+players/body/models/cricketleananimation.o,d6534a50713c4a32c6df98432a52ab4b.o
 players/body/models/cricketumpirehigh.o,59a3aed119f2146e7a2b64d589ca7068.o
 players/body/models/cricketumpirelow.o,3e4acac300d199b0cc0a1cd0d996b000.o
 players/body/models/cricketumpiremed.o,37063a6c45de3853592ae1d4942c7644.o
