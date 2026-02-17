@@ -508,6 +508,18 @@ Frontend/Tournaments/World_Championship_07.rsg,43659b2c74cae193c2613e9104be373c.
 frontend/twenty20.big,838b29e4430d2a853eeea9b1f2a1bd79.big
 frontend/worldcup.big,846bf835a621a435a2366a391dcfa4eb.big
 frontend/worldsrs.big,b563ba8e570ab5294d466752a853e294.big
+fx/fxadelaide.big,e5c9be510136e7130a56ec7738cd3789.big
+fx/fxauckland.big,990893aa1385f576dba47f7ce3a8dda6.big
+fx/fxbrisbane.big,542eb8e6b15de394ec88d1ae5d860c7a.big
+fx/fxcape_town.big,0d8b423402a31304bf9645fec36cdad7.big
+fx/fxchristchurch.big,c1c63224736daed829b91979dcc063af.big
+fx/fxdhaka.big,5e1c222d68fdd1f51fc4e8b042fc7019.big
+fx/fxjohannesburg.big,1c2c4102b980dfb04cc657a2a25c4521.big
+fx/fxkolkata.big,f7af2e1641dc830b4d3f7c674cf7bb80.big
+fx/fxmelbourne.big,e0c882f9f6e697203b69cab35542957a.big
+fx/fxperth.big,d56f18a245462fc022e923e4b5d90c38.big
+fx/fxsharjah.big,67786cb7f994c073c1912eb6dd82295d.big
+fx/fxsydney.big,a893cfc42690dcc1ce8e789170ae293e.big
 fx/ww.fsh,3d2b4ab221d19eadb08f4acec4c933e6.fsh
 gameface/gfx/00_morphbaseface_1.fsh,e342b26bdf5fae7ce4b169759f1e0d3e.fsh
 gameface/gfx/00_morphbaseface_2.fsh,b7873aaa2fdccac3a42ee25bb75b9b44.fsh
@@ -1648,6 +1660,7 @@ replays/lbw_nb.xml,0e3387429eb95a61a417f7b5465f2b71.xml
 replays/run_out.xml,8cfd225c6358456296fab74a0d334db1.xml
 replays/run_out_nb.xml,6225cc255d23761eb3673e3d074e5771.xml
 replays/third_ump.xml,1cb35501330a458643e00f46213b5293.xml
+replays/third_ump_nb.xml,7ad11d53546aa255872c60af7b0e6551.xml
 saf/shots.big,430834dfd47be8b1eaa97fa22706133a.big
 stadiums/adelaide.night.big,28b997929e28ff7ff3eccd65b4c315a4.big
 stadiums/adelaide.sunny.big,b912feb8a34a3ca1dc56b9b3ba7a7293.big
